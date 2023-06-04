@@ -3,3 +3,5 @@
 1.3 version can understand how many cups of coffee you will be able to make by information which you provide to the program.
 
 1.4 version has its own methods with choices to do with a coffee machine such as buying a coffee, filling the coffee machine and withdrawing the money.
+
+1.5 version has almost a full functionality of a coffee machine, where you can buy a coffee, check what remained, take a money, or just exit the program.
